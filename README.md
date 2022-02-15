@@ -1,5 +1,6 @@
 # CEALM
-coevolutionary augment Lagrangian method 
+coevolutionary augmented Lagrangian method is designed by Prof. Tahk, Min-Jea, KAIST (Korea Advanced Instutute of Science and Technology). 
+He started his carrer at ADD(Agency for defense development, Korea), and dedicated for professor of aerospace engineering department at KAIST form 1998, and retired in 2019.
 
 # Programing Lanugage
 The cealm solver is designed to operate on following languages
