@@ -2,6 +2,9 @@
 coevolutionary augmented Lagrangian method is designed by Prof. Tahk, Min-Jea, KAIST (Korea Advanced Instutute of Science and Technology). 
 He started his carrer at ADD(Agency for defense development, Korea), and dedicated for professor of aerospace engineering department at KAIST form 1998, and retired in 2019.
 
+CEALM is kind of meta heuristic global optimization algorithm. It solves a dual problem of constrainied nonlinear optimization problem using augmented Lagrangian method (ALM). By ALM the dual problem is convex, so the duality gap vanishs. 
+CEALM utilizes two groups of player, Group X for the state, and the other Group Y for the co-state. Each group evolve seperately. Goal of group X is to minimize the augmented cost function $f_a(x)$ , while Goal of group Y is to maximize $f_a(x)$.
+
 # Programing Lanugage
 The cealm solver is designed to operate on following languages
 - matlab 
