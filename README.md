@@ -10,7 +10,12 @@ The cealm solver is designed to operate on following languages
 # Background 
 ## Problem definition 
 
-$$\alpha$$
+<img src="https://render.githubusercontent.com/render/math?math=min J = f(x)">
+subject to 
+
+<img src="https://render.githubusercontent.com/render/math?math=g(x)<0">
+<img src="https://render.githubusercontent.com/render/math?math=h(x) = 0">
+<img src="https://render.githubusercontent.com/render/math?math=lb < x < ub">
 
 ## Dual Problem 
 
